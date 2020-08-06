@@ -1,0 +1,2 @@
+Spring Security如何获取当前登录用户
+http://www.codedemo.club/get-user-in-spring-security/
