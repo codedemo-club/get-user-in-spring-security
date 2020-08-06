@@ -1,0 +1,5 @@
+# 该测试需要启动应用后执行
+GET http://localhost:8080/username2
+Authorization: Basic YWRtaW46YWRtaW4=
+
+###

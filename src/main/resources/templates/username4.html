@@ -1,0 +1,7 @@
+<html xmlns:th="https://www.thymeleaf.org"
+      xmlns:sec="https://www.thymeleaf.org/thymeleaf-extras-springsecurity5">
+<body>
+<div sec:authorize="isAuthenticated()">
+    当前登录用户是： <span sec:authentication="name"></span></div>
+</body>
+</html>
